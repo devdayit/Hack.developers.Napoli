@@ -8,5 +8,7 @@ Le pull request fatte dai team di Napoli per Hack.developers http://hack.develop
 * Crea una dashboard per lo stato dell'adozione delle pratiche web sicure https://github.com/italia/security-dashboard/pull/5
 * Develop demo application for reading and displaying card contents https://github.com/italia/cie-mrtd-sdk/pull/5
 * Create a mobile 18app application https://github.com/italia/18app/pull/8
+* Piattaforma di analytics delle issue github https://github.com/italia/anpr-github-metrics/pull/2
+* Generatore di documentazione HTML navigabile a partire dai WSDL https://github.com/italia/anpr-wsdl-docwriter/pull/1
 
 (lista in aggiornamento)
